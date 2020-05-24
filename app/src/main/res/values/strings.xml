@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">fatec_ipi_noite_pdm_gps_mapas</string>
+    <string name="app_name">Ciclo de Vida GPS e Mapas - FATEC</string>
     <string name="action_settings">Settings</string>
     <string name="no_gps_no_app">Sem GPS não vai rolar</string>
 </resources>
