@@ -1,5 +1,33 @@
 <resources>
     <string name="app_name">Ciclo de Vida GPS e Mapas - FATEC</string>
-    <string name="action_settings">Settings</string>
-    <string name="no_gps_no_app">Sem GPS não vai rolar</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <string name="conceder_permissao">Grant GPS permission</string>
+    <string name="ativarGps">Enable GPS</string>
+    <string name="iniciarPercurso">Start Run</string>
+    <string name="terminarPercurso">Finish Run</string>
+    <string name="buscaEncontrar">What do you want to find?</string>
+    <string name="hintDistanciaPercorrida">--.--</string>
+    <string name="precisa_permissao">You need to grant permission to activate GPS</string>
+    <string name="permissao_ja_concedida">Permission is already granted</string>
+    <string name="permissao_concedida">Permission granted successfully</string>
+    <string name="gps_ativado_sucesso">GPS activated successfully</string>
+    <string name="gps_desativado_sucesso">GPS disabled successfully</string>
+    <string name="gps_nao_ativado">GPS is not activated</string>
+    <string name="gps_ja_ativado">GPS is already activated</string>
+    <string name="preciso_gps_inicioPercurso">You need to enable GPS to start the route</string>
+    <string name="percurso_em_andamento">There is already a route in progress</string>
+    <string name="percurso_sem_andamento">There is no route in progress</string>
+    <string name="percurso_iniciado">Route Started</string>
+    <string name="no_gps_no_app">Without GPS it will not roll</string>
+    <string name="tempoTotalPercurso">"Travel time = "</string>
+    <string name="distanciaTotal">"Total Distance = "</string>
+    <string name="tempoTotal">"\nTotal Time =  "</string>
+    <string name="ultimo_percurso">Last Travel</string>
+    <string name="tempo_percurso">Travel time</string>
+    <string name="desativarGps">Disable GPS</string>
+    <string name="distanciaPercorrida">Distance traveled (m)</string>
+    <string name="tempoPassado">Elapsed Time</string>
+    <string name="metros">meters</string>
+    <string name="busca">Search</string>
 </resources>
